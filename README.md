@@ -30,7 +30,11 @@ Large Language Models (LLMs) achieve strong generative performance but can be di
 * **Orthogonal Fusion** — penalizes redundancy when Pearson correlation between signals is high; shown to improve UF performance in our experiments.&#x20;
 
 
-## Results
+## Models and Datasets
+
+* **Trained Models** – \[link]
+* **Model Generation Process** – \[link]
+* **Reward Margins of Different Methods** – \[link]
 
 
 ## License
