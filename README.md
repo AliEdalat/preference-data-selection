@@ -34,7 +34,7 @@ Large Language Models (LLMs) achieve strong generative performance but can be di
 
 * **Trained Models** – \[link]
 * **Model Generation Process** – \[link]
-* **Reward Margins of Different Methods** – \[link]
+* **Reward Margins of Different Methods** – \[[link](https://huggingface.co/datasets/AliEdalat/reward_margins)]
 
 
 ## License
