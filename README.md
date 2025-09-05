@@ -32,8 +32,9 @@ Large Language Models (LLMs) achieve strong generative performance but can be di
 
 ## Models and Datasets
 
-* **Trained Models** – \[link]
-* **Model Generation Process** – \[link]
+* **Trained Models** – all models in \[[link](https://huggingface.co/AliEdalat)] or \[[link](https://huggingface.co/kamandmesbah)] that have hh or uf in their names.
+* **Train Datasets of Models** – \[[link](https://huggingface.co/datasets/AliEdalat/dpo_models_train_datasets)]
+* **Model Generation Texts** – \[[link](https://huggingface.co/datasets/AliEdalat/dpo_models_generation)]
 * **Reward Margins of Different Methods** – \[[link](https://huggingface.co/datasets/AliEdalat/reward_margins)]
 
 
