@@ -1,8 +1,8 @@
 
 
-# Enhancing Large Language Model Alignment through Preference Data Selection
+# Preference Data Selection methods
 
-This repository accompanies the LLM course project *Enhancing Large Language Model Alignment through Preference Data Selection* (replication + novel fusion methods).&#x20;
+This repository accompanies the LLM course project *Preference Data Selection methods* (replication + novel fusion methods).&#x20;
 
 ---
 
